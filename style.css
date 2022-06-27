@@ -4,6 +4,7 @@
 }
 body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgb(231, 205, 181);
 }
 header {
   background-color: rgb(218, 128, 45);
@@ -89,4 +90,15 @@ div img {
   display: block;
   margin: 0 auto;
   max-width: 100%;
+}
+
+
+/* footer */
+footer {
+  background-color: rgb(218, 128, 45);
+  padding: 20px;
+}
+
+html {
+  scroll-behavior: smooth;
 }
